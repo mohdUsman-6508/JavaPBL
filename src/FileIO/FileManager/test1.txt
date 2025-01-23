@@ -1,0 +1,2 @@
+Hello I am writing in file1
+this is for testing purpose.

@@ -1,0 +1,7 @@
+This is the original file
+and its content is copied to
+another file
+
+This is the original file
+and its content is copied to
+another file
