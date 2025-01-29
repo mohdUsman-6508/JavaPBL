@@ -1,4 +1,5 @@
 package Java17;
 
-public interface Drawable {
+public sealed interface Drawable permits Circle{
+    void draw();
 }
